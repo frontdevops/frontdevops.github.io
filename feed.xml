@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Pro WEB IT</title>
+		<link>https://audio.newhr.info/</link>
+		<image>
+			<url>https://prowebit.majorov.su/cover.jpg</url>
+			<title>Pro WEB IT</title>
+			<link>https://prowebit.majorov.su/</link>
+		</image>
+		<description>Авторский подкаст Александра Майорова. Про IT собеседования, WEB технологии, программирование и не только.
+			Все об IT жизни и жизни в IT, карьере и разработке, собеседованиях, зарплате и найме.
+			Импровизированные разговоры о компьютерных технологиях и прочего интересного из мира ИТ.
+		</description>
+		<language>ru</language>
+		<copyright>Alexander Mayorov</copyright>
+		<atom:link href="https://majorov.su/feed.xml" rel="self" type="application/rss+xml"/>
+		<lastBuildDate>Fri, 30 Mar 2018 01:01:01 PDT</lastBuildDate>
+		<itunes:subtitle>Майоров про WEB и карьеру в IT</itunes:subtitle>
+		<itunes:author>Александр Майоров</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:owner>
+			<itunes:name>New.HR</itunes:name>
+			<itunes:email>major@new.hr</itunes:email>
+		</itunes:owner>
+		<itunes:image href="https://prowebit.majorov.su/cover.jpg"/>
+		<itunes:category text="Technology">
+			<itunes:category text="Tech News"/>
+		</itunes:category>
+		<itunes:keywords>
+			javascript,php,python,frontend,develop,разработка,программирование,карьера,IT,собеседования,работа
+		</itunes:keywords>
+		<item>
+			<title>Выпуск №0</title>
+			<pubDate>Fri, 30 Mar 2018 02:21:00 +0300</pubDate>
+			<description><![CDATA[<p>Пилотный нулевой выпуск. Про себя и планы. Про RadioJS Nightly, первый Moscow Vue.js Meetup и почему
+я заинтересовался Vue.js и чем он мне понравился. Про jQuery и сложность фронтенда.
+19 минут разговоров о том, что я собрался делать и с чего начинаю.
+</p>
+<ul><li>Александр Майоров</li></ul>
+<h2>Содержание</h2>
+<ul>
+	<li>00:05:15 Про себя, кто я</li>
+	<li>00:05:15 Про RadioJS Nightly</li>
+	<li>00:05:15 Про этот подкаст</li>
+	<li>00:05:15 Планы на будущее</li>
+	<li>00:08:24 Сложности фронтенда</li>
+	<li>00:13:48 Moscow Vue.js Meetup</li>
+	<li>00:13:48 Почему я выбрал Vue.js</li>
+</ul>
+<p>
+Слушайте <a href="https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016">в iTunes</a>,
+подписывайтесь <a href="https://majorov.su/feed.xml">на RSS</a>.
+Читайте новости в <a href="https://t.me/prowebit">Телеграме</a>,
+или <a href="https://vk.com/mayorovprowebit">Вконтакте</a>.
+</p>
+<h2>События</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=h9NQs0SEVoA">Видео с Moscow Vue.js Meetup #1</a></li>
+</ul>
+<h2>Ссылки</h2>
+<ul>
+<li>
+	<a href="https://vacancy.new.hr/">Вакансии</a>
+	<a href="https://t.me/prowebit">Личный канал с публикациями Pro WEB IT</a>
+	<a href="https://t.me/newhr">Телеграм канал с отборными вакансиями</a>
+</li>
+</ul>]]></description>
+			<guid isPermaLink="true">https://drive.google.com/open?id=1kJxk2vqGZtvByhzNO0vn_KlX9fc7dazX</guid>
+			<enclosure type="audio/mpeg" url="https://drive.google.com/open?id=1kJxk2vqGZtvByhzNO0vn_KlX9fc7dazX" length="9696368"/>
+			<itunes:duration>00:19:44</itunes:duration>
+			<itunes:author>Александр Майоров</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:summary>Пилотный нулевой выпуск. Про себя, планы на RadioJS и этот подкаст, первый Moscow Vue.js Meetup. Почему я заинтересовался Vue.js и чем он мне понравился.</itunes:summary>
+			<itunes:image href="https://audio.newhr.info/cover.jpg"/>
+		</item>
+	</channel>
+</rss>
