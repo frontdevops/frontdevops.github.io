@@ -2,11 +2,11 @@ body {
 	margin: 0;
 	overflow-x: hidden;
 	min-height: 101vh;
+	font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 
 main {
 	text-align: center;
-	font-family: "Open Sans", system-ui;
 }
 
 .title {
@@ -109,6 +109,14 @@ main {
 	background-image: url('images/telegram.svg');
 }
 
+.links__link-image_medium {
+	background-image: url('images/medium.svg');
+	background-size: 80%;
+	background-position: center;
+	background-repeat: no-repeat;
+	border: 1px solid #ccc;
+}
+
 @media (min-width: 420px) {
 	.logo {
 		width: 212px;
@@ -187,7 +195,6 @@ main {
 	color: inherit;
 	text-align: center;
 	text-decoration: none;
-	font-family: "Open Sans", system-ui;
 	font-size: 14px;
 	font-weight: 500;
 	border: 1px solid rgba(255,255,255,0.3);
