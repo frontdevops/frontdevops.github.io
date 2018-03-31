@@ -9,6 +9,21 @@ main {
 	text-align: center;
 }
 
+a,
+a:link,
+a:visited {
+	text-decoration: none;
+}
+
+a,
+a:hover {
+	color: #1e5aff;
+}
+
+strong {
+	color: #1e5aff;
+}
+
 .title {
 	animation-delay: 0.2s;
 	animation-duration: 0.8s;
@@ -16,7 +31,11 @@ main {
 }
 
 .title__subtitle {
-	font-weight: 100;
+	font-weight: 200;
+}
+
+.title strong {
+	font-weight: 300;
 }
 
 .title__marked {
