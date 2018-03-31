@@ -2,26 +2,17 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<atom:link href="https://majorov.su/feed.xml" rel="self" type="application/rss+xml"/>
-<<<<<<< HEAD
-=======
-		<atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:246084821/sounds.rss?before=422938959" rel="next" type="application/rss+xml"/>
->>>>>>> 64923e8c440a20e551918d6c19685f3a109abd9f
 		<title>Pro WEB IT</title>
 		<link>https://majorov.su</link>
 		<pubDate>Sat, 31 Mar 2018 21:34:13 +0000</pubDate>
 		<lastBuildDate>Sat, 31 Mar 2018 21:34:13 +0000</lastBuildDate>
 		<ttl>60</ttl>
 		<language>ru</language>
-<<<<<<< HEAD
 		<copyright>ⓒ Alexander Mayorov</copyright>
 		<description>Авторский подкаст Александра Майорова.
 			Про IT, собеседования, WEB технологии, программирование и не только.
 			Все об IT жизни и жизни в IT, карьере и разработке, собеседованиях, зарплате и найме.
 			Импровизированные разговоры о компьютерных технологиях и прочего интересного из мира ИТ.</description>
-=======
-		<copyright>(c) Alexander Mayorov</copyright>
-		<description>Авторский подкаст Александра Майорова. Про IT, собеседования, WEB технологии, программирование и не только. Все об IT жизни и жизни в IT, карьере и разработке, собеседованиях, зарплате и найме. Импровизированные разговоры о компьютерных технологиях и прочего интересного из мира ИТ.</description>
->>>>>>> 64923e8c440a20e551918d6c19685f3a109abd9f
 		<itunes:subtitle>Авторский подкаст Александра Майорова. Про IT соб…</itunes:subtitle>
 		<itunes:owner>
 			<itunes:name>Александр Майоров - Pro WEB IT</itunes:name>
@@ -29,15 +20,9 @@
 		</itunes:owner>
 		<itunes:author>Alexander Mayorov</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
-<<<<<<< HEAD
 		<itunes:image href="https://majorov.su/cover.png"/>
 		<image>
 			<url>https://majorov.su/cover.png</url>
-=======
-		<itunes:image href="http://i1.sndcdn.com/avatars-000425447340-ggtrq3-original.jpg"/>
-		<image>
-			<url>http://i1.sndcdn.com/artworks-000328080102-7b0urh-original.png</url>
->>>>>>> 64923e8c440a20e551918d6c19685f3a109abd9f
 			<title>Александр Майоров - Pro WEB IT</title>
 			<link>https://majorov.su</link>
 		</image>
@@ -54,14 +39,7 @@
 			<itunes:subtitle>Пилотный нулевой выпуск</itunes:subtitle>
 			<itunes:summary>Рассказываю про себя и планы. Про RadioJS Nightly, первый Moscow Vue.js Meetup и почему я заинтересовался Vue.js и чем он мне понравился. Про jQuery и сложность фронтенда. 19 минут разговоров о том, что я собрался делать и с чего начинаю.</itunes:summary>
 			<enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/422938959-prowebit-prowebit-0.mp3" length="9804190"/>
-<<<<<<< HEAD
 			<itunes:image href="https://majorov.su/cover.png"/>
 		</item>
 	</channel>
 </rss>
-=======
-			<itunes:image href="http://i1.sndcdn.com/artworks-000328080102-7b0urh-original.png"/>
-		</item>
-	</channel>
-</rss>
->>>>>>> 64923e8c440a20e551918d6c19685f3a109abd9f
