@@ -26,11 +26,105 @@
 			<title>Александр Майоров - Pro WEB IT</title>
 			<link>https://majorov.su</link>
 		</image>
-		<itunes:category text="Technology"/>
+		<itunes:category text="Technology">
+			<itunes:category text="Tech News"/>
+		</itunes:category>
+		<itunes:keywords>
+			javascript,php,python,frontend,develop,разработка,программирование,карьера,IT,собеседования,работа
+		</itunes:keywords>
+		<item>
+			<guid isPermaLink="false">tag:soundcloud,2010:tracks/424360437</guid>
+			<title>ProWebIT - Episode 1 (2й выпуск)</title>
+			<pubDate>Tue, 03 Apr 2018 00:00:00 +0000</pubDate>
+			<link>https://soundcloud.com/prowebit/prowebit-episode-1-2y-vypusk</link>
+			<itunes:duration>00:14:20</itunes:duration>
+			<itunes:author>Alexander Mayorov</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:subtitle>Второй по счету и первый по номеру выпуск</itunes:subtitle>
+			<itunes:summary>В этот раз почти 15 минут. Эдакая 15минутка про WEB IT.
+				Тема: ключевое слово CONST в JS делает свою работу правильно! Разбираемся в сути и предназначении.
+				А так же рекомендую сериалы.
+			</itunes:summary>
+			<description><![CDATA[
+<p>Второй по счету и первый по номеру выпуск. В этот раз почти 15 минут. Эдакая 15минутка про WEB IT.</p>
+<p>Рассказываю, почему слово CONST в JavaScript делает свою работу правильно! Разбираемся в сути и предназначении констант.</p>
+<p>Рекомендую сериалы:</p>
+<ol>
+<li>«Электрические сны Филипа К. Дика» — британский научно-фантастический телесериал-антология,
+ основанный на произведениях Филипа Дика.</li>
+<li>«Видоизменённый углерод» — научно-фантастический американский телесериал Лаэты Калогридис,
+ основанный на одноимённом романе Ричарда Моргана, опубликованном в 2002 году.</li>
+<li>«Кремниевая долина». Уже доступна 2я серия 5го сезона</li>
+</ol>
+<h2>Ведущие и гости</h2>
+<ul><li>Александр Майоров</li>
+<li>Моно выпуск, без гостей</li>
+</ul>
+<h2>Содержание</h2>
+<ul>
+	<li>00:02:12 Про константы и имутабельность в JS</li>
+	<li>00:09:15 Как создать константный объект</li>
+	<li>00:09:00 Планы на будущее</li>
+	<li>00:11:36 Рекомендую сериалы</li>
+</ul>
+<p>
+Слушайте <a href="https://itunes.apple.com/ru/podcast/pro-web-it/id1366662242?mt=2">в iTunes</a>,
+подписывайтесь <a href="https://majorov.su/feed.xml">на RSS</a>.
+Читайте новости в <a href="https://t.me/prowebit">Телеграме</a>,
+или <a href="https://vk.com/mayorovprowebit">Вконтакте</a>.
+</p>
+<h2>Ссылки</h2>
+<ul>
+<li>
+	<a href="https://t.me/prowebit">Статья про CONST в JavaScript</a>
+</li>
+</ul>
+]]></description>
+			<enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/424360437-prowebit-prowebit-episode-1-2y-vypusk.mp3" length="7268623"/>
+			<itunes:image href="https://majorov.su/cover.png"/>
+		</item>
 		<item>
 			<guid isPermaLink="false">tag:soundcloud,2010:tracks/422938959</guid>
 			<title>ProWebIT - Пилотный выпуск</title>
-			<description>Пилотный нулевой выпуск. Про себя и планы. Про RadioJS Nightly, первый Moscow Vue.js Meetup и почему я заинтересовался Vue.js и чем он мне понравился. Про jQuery и сложность фронтенда. 19 минут разговоров о том, что я собрался делать и с чего начинаю.</description>
+			<description><![CDATA[<p>
+Пилотный нулевой выпуск. Про себя и планы.
+Про RadioJS Nightly, первый Moscow Vue.js Meetup и почему я заинтересовался Vue.js и чем он мне понравился.
+Про jQuery и сложность фронтенда. 19 минут разговоров о том, что я собрался делать и с чего начинаю.
+</p>
+<h2>Ведущие и гости</h2>
+<ul><li>Александр Майоров</li>
+<li>Моно выпуск, без гостей</li>
+</ul>
+<h2>Содержание</h2>
+<ul>
+	<li>00:01:00 Про себя, кто я</li>
+	<li>00:05:00 Про RadioJS Nightly</li>
+	<li>00:07:00 Про этот подкаст</li>
+	<li>00:09:00 Планы на будущее</li>
+	<li>00:13:00 Moscow Vue.js Meetup</li>
+	<li>00:15:00 Сложности фронтенда</li>
+	<li>00:18:00 Почему я выбрал Vue.js</li>
+</ul>
+<p>
+Слушайте <a href="https://itunes.apple.com/ru/podcast/pro-web-it/id1366662242?mt=2">в iTunes</a>,
+подписывайтесь <a href="https://majorov.su/feed.xml">на RSS</a>.
+Читайте новости в <a href="https://t.me/prowebit">Телеграме</a>,
+или <a href="https://vk.com/mayorovprowebit">Вконтакте</a>.
+</p>
+<h2>События</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=h9NQs0SEVoA">Видео с Moscow Vue.js Meetup #1</a></li>
+</ul>
+<h2>Ссылки</h2>
+<ul>
+<li>
+	<a href="https://t.me/prowebit">Личный канал с публикациями Pro WEB IT</a>
+	<a href="https://t.me/newhr">Телеграм канал с отборными вакансиями</a>
+	<a href="https://vacancy.new.hr/">Вакансии New.HR</a>
+</li>
+</ul>
+]]></description>
+
 			<pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
 			<link>https://soundcloud.com/prowebit/prowebit-0</link>
 			<itunes:duration>00:19:44</itunes:duration>

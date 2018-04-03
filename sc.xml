@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:246084821/sounds.rss" rel="self" type="application/rss+xml"/>
+		<atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:246084821/sounds.rss?before=422938959" rel="next" type="application/rss+xml"/>
+		<title>Pro WEB IT</title>
+		<link>http://soundcloud.com/prowebit</link>
+		<pubDate>Tue, 03 Apr 2018 21:11:21 +0000</pubDate>
+		<lastBuildDate>Tue, 03 Apr 2018 21:11:21 +0000</lastBuildDate>
+		<ttl>60</ttl>
+		<language>ru</language>
+		<copyright>All rights reserved</copyright>
+		<webMaster>feeds@soundcloud.com (SoundCloud Feeds)</webMaster>
+		<description>Авторский подкаст Александра Майорова. Про IT собеседования, WEB технологии, программирование и не только.
+			Все об IT жизни и жизни в IT, карьере и разработке, собеседованиях, зарплате и найме. Импровизированные разговоры о компьютерных технологиях и прочего интересного из мира ИТ.</description>
+		<itunes:subtitle>Авторский подкаст Александра Майорова. Про IT соб…</itunes:subtitle>
+		<itunes:owner>
+			<itunes:name>Александр Майоров - Pro WEB IT</itunes:name>
+			<itunes:email>feeds@soundcloud.com</itunes:email>
+		</itunes:owner>
+		<itunes:author>Alexander Mayorov</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="http://i1.sndcdn.com/avatars-000425448108-znal2z-original.jpg"/>
+		<image>
+			<url>http://i1.sndcdn.com/avatars-000425448108-znal2z-original.jpg</url>
+			<title>Александр Майоров - Pro WEB IT</title>
+			<link>http://soundcloud.com/prowebit</link>
+		</image>
+		<itunes:category text="Technology"/>
+		<item>
+			<guid isPermaLink="false">tag:soundcloud,2010:tracks/424360437</guid>
+			<title>ProWebIT - Episode 1 (2й выпуск)</title>
+			<pubDate>Tue, 03 Apr 2018 00:00:00 +0000</pubDate>
+			<link>https://soundcloud.com/prowebit/prowebit-episode-1-2y-vypusk</link>
+			<itunes:duration>00:14:20</itunes:duration>
+			<itunes:author>Alexander Mayorov</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:summary>Второй по счету и первый по номеру выпуск. В этот раз почти 15 минут. Эдакая 15минутка про WEB IT.
+				- CONST в JS делает свою работу правильно! Разбираемся в сути и предназначении.
+				- Рекомендую сериалы:
+				1. «Электрические сны Филипа К. Дика» — британский научно-фантастический телесериал-антология, основанный на произведениях Филипа Дика.
+				2. «Видоизменённый углерод» — научно-фантастический американский телесериал Лаэты Калогридис, основанный на одноимённом романе Ричарда Моргана, опубликованном в 2002 году.
+				3. «Кремниевая долина». Уже доступна 2я серия 5го сезона</itunes:summary>
+			<itunes:subtitle>Второй по счету и первый по номеру выпуск. В этот…</itunes:subtitle>
+			<description>Второй по счету и первый по номеру выпуск. В этот раз почти 15 минут. Эдакая 15минутка про WEB IT.
+				- CONST в JS делает свою работу правильно! Разбираемся в сути и предназначении.
+				- Рекомендую сериалы:
+				1. «Электрические сны Филипа К. Дика» — британский научно-фантастический телесериал-антология, основанный на произведениях Филипа Дика.
+				2. «Видоизменённый углерод» — научно-фантастический американский телесериал Лаэты Калогридис, основанный на одноимённом романе Ричарда Моргана, опубликованном в 2002 году.
+				3. «Кремниевая долина». Уже доступна 2я серия 5го сезона</description>
+			<enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/424360437-prowebit-prowebit-episode-1-2y-vypusk.mp3" length="7268623"/>
+			<itunes:image href="http://i1.sndcdn.com/artworks-000329408979-19ae8x-original.png"/>
+		</item>
+		<item>
+			<guid isPermaLink="false">tag:soundcloud,2010:tracks/422938959</guid>
+			<title>ProWebIT-0</title>
+			<pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+			<link>https://soundcloud.com/prowebit/prowebit-0</link>
+			<itunes:duration>00:19:44</itunes:duration>
+			<itunes:author>Alexander Mayorov</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:summary>Пилотный нулевой выпуск. Про себя и планы. Про RadioJS Nightly, первый Moscow Vue.js Meetup и почему я заинтересовался Vue.js и чем он мне понравился. Про jQuery и сложность фронтенда. 19 минут разговоров о том, что я собрался делать и с чего начинаю.</itunes:summary>
+			<itunes:subtitle>Пилотный нулевой выпуск. Про себя и планы. Про Ra…</itunes:subtitle>
+			<description>Пилотный нулевой выпуск. Про себя и планы. Про RadioJS Nightly, первый Moscow Vue.js Meetup и почему я заинтересовался Vue.js и чем он мне понравился. Про jQuery и сложность фронтенда. 19 минут разговоров о том, что я собрался делать и с чего начинаю.</description>
+			<enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/422938959-prowebit-prowebit-0.mp3" length="9804190"/>
+			<itunes:image href="http://i1.sndcdn.com/artworks-000328080102-7b0urh-original.png"/>
+		</item>
+	</channel>
+</rss>
