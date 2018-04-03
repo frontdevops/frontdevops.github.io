@@ -33,10 +33,10 @@
 			javascript,php,python,frontend,develop,разработка,программирование,карьера,IT,собеседования,работа
 		</itunes:keywords>
 		<item>
-			<guid isPermaLink="false">tag:soundcloud,2010:tracks/424360437</guid>
+			<guid isPermaLink="false">https://soundcloud.com/prowebit/prowebit-episode-1-2y-vypusk</guid>
 			<title>ProWebIT - Episode 1 (2й выпуск)</title>
 			<pubDate>Tue, 03 Apr 2018 00:00:00 +0000</pubDate>
-			<link>https://soundcloud.com/prowebit/prowebit-episode-1-2y-vypusk</link>
+			<link>https://majorov.su</link>
 			<itunes:duration>00:14:20</itunes:duration>
 			<itunes:author>Alexander Mayorov</itunes:author>
 			<itunes:explicit>no</itunes:explicit>
@@ -84,7 +84,9 @@
 			<itunes:image href="https://majorov.su/cover.png"/>
 		</item>
 		<item>
-			<guid isPermaLink="false">tag:soundcloud,2010:tracks/422938959</guid>
+			<guid isPermaLink="false">https://soundcloud.com/prowebit/prowebit-0</guid>
+			<pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+			<link>https://majorov.su</link>
 			<title>ProWebIT - Пилотный выпуск</title>
 			<description><![CDATA[<p>
 Пилотный нулевой выпуск. Про себя и планы.
@@ -124,9 +126,6 @@
 </li>
 </ul>
 ]]></description>
-
-			<pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-			<link>https://soundcloud.com/prowebit/prowebit-0</link>
 			<itunes:duration>00:19:44</itunes:duration>
 			<itunes:author>Александр Майоров</itunes:author>
 			<itunes:explicit>no</itunes:explicit>
