@@ -20,11 +20,11 @@
 		</itunes:owner>
 		<itunes:author>Alexander Mayorov</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
-		<itunes:image href="https://majorov.su/cover.png"/>
+		<itunes:image href="https://majorov.su/images/cover.png"/>
 		<image>
-			<url>https://majorov.su/cover.png</url>
+			<url>https://majorov.su/images/cover.png</url>
 			<title>Александр Майоров - Pro WEB IT</title>
-			<link>https://majorov.su/cover.png</link>
+			<link>https://majorov.su/</link>
 		</image>
 		<itunes:category text="Technology">
 			<itunes:category text="Tech News"/>
@@ -81,7 +81,7 @@
 </ol>
 ]]></description>
 			<enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/424360437-prowebit-prowebit-episode-1-2y-vypusk.mp3" length="7268623"/>
-			<itunes:image href="https://majorov.su/cover.png"/>
+			<itunes:image href="https://majorov.su/images/cover.png"/>
 		</item>
 		<item>
 			<guid isPermaLink="false">https://soundcloud.com/prowebit/prowebit-0</guid>
@@ -131,7 +131,7 @@
 			<itunes:subtitle>Пилотный нулевой выпуск</itunes:subtitle>
 			<itunes:summary>Рассказываю про себя и планы. Про RadioJS Nightly, первый Moscow Vue.js Meetup и почему я заинтересовался Vue.js и чем он мне понравился. Про jQuery и сложность фронтенда. 19 минут разговоров о том, что я собрался делать и с чего начинаю.</itunes:summary>
 			<enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/422938959-prowebit-prowebit-0.mp3" length="9804190"/>
-			<itunes:image href="https://majorov.su/cover.png"/>
+			<itunes:image href="https://majorov.su/images/cover.png"/>
 		</item>
 	</channel>
 </rss>
