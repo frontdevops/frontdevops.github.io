@@ -24,7 +24,7 @@
 		<image>
 			<url>https://majorov.su/images/cover.png</url>
 			<title>Александр Майоров - Pro WEB IT</title>
-			<link>https://majorov.su/</link>
+			<link>https://majorov.su/images/cover.png</link>
 		</image>
 		<itunes:category text="Technology">
 			<itunes:category text="Tech News"/>
