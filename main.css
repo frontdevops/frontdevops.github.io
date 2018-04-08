@@ -128,12 +128,20 @@ strong {
 	background-image: url('images/telegram.svg');
 }
 
-.links__link-image_medium {
-	background-image: url('images/medium.svg');
+.links__link-image_medium,
+.links__link-image_vk {
 	background-size: 80%;
 	background-position: center;
 	background-repeat: no-repeat;
 	border: 1px solid #ccc;
+}
+
+.links__link-image_vk {
+	background-image: url('images/vk.svg');
+}
+
+.links__link-image_medium {
+	background-image: url('images/medium.svg');
 }
 
 .links__link-image_rss {

@@ -10,9 +10,9 @@
 		<language>ru</language>
 		<copyright>ⓒ Alexander Mayorov</copyright>
 		<description>Авторский подкаст Александра Майорова.
-			Про IT, собеседования, WEB технологии, программирование и не только.
-			Все об IT жизни и жизни в IT, карьере и разработке, собеседованиях, зарплате и найме.
-			Импровизированные разговоры о компьютерных технологиях и прочего интересного из мира ИТ.</description>
+Про IT, собеседования, WEB технологии, программирование и не только.
+Все об IT жизни и жизни в IT, карьере и разработке, собеседованиях, зарплате и найме.
+Импровизированные разговоры о компьютерных технологиях и прочего интересного из мира ИТ.</description>
 		<itunes:subtitle>Авторский подкаст Александра Майорова. Про IT соб…</itunes:subtitle>
 		<itunes:owner>
 			<itunes:name>Александр Майоров - Pro WEB IT</itunes:name>
@@ -24,14 +24,12 @@
 		<image>
 			<url>https://majorov.su/images/cover.png</url>
 			<title>Александр Майоров - Pro WEB IT</title>
-			<link>https://majorov.su/images/cover.png</link>
+			<link>https://majorov.su/</link>
 		</image>
 		<itunes:category text="Technology">
 			<itunes:category text="Tech News"/>
 		</itunes:category>
-		<itunes:keywords>
-			javascript,php,python,frontend,develop,разработка,программирование,карьера,IT,собеседования,работа
-		</itunes:keywords>
+		<itunes:keywords>javascript,php,python,golang,frontend,develop,разработка,программирование,карьера,IT,собеседования,работа</itunes:keywords>
 		<item>
 			<guid isPermaLink="false">https://soundcloud.com/prowebit/prowebit-episode-1-2y-vypusk</guid>
 			<title>ProWebIT - Episode 1 (2й выпуск)</title>
@@ -42,8 +40,14 @@
 			<itunes:explicit>no</itunes:explicit>
 			<itunes:subtitle>Второй по счету и первый по номеру выпуск</itunes:subtitle>
 			<itunes:summary>В этот раз почти 15 минут. Эдакая 15минутка про WEB IT.
-				Тема: ключевое слово CONST в JS делает свою работу правильно! Разбираемся в сути и предназначении.
-				А так же рекомендую сериалы.
+Тема: ключевое слово CONST в JS делает свою работу правильно! Разбираемся в сути и предназначении.
+А так же рекомендую сериалы.
+
+Содержание:
+- 00:02:12 Про константы и имутабельность в JS
+- 00:09:15 Как создать константный объект
+- 00:09:00 Планы на будущее
+- 00:11:36 Рекомендую сериалы
 			</itunes:summary>
 			<description><![CDATA[
 <p>Второй по счету и первый по номеру выпуск. В этот раз почти 15 минут. Эдакая 15минутка про WEB IT.</p>
