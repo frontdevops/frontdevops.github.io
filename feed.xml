@@ -31,6 +31,48 @@
 		</itunes:category>
 		<itunes:keywords>javascript,php,python,golang,frontend,develop,разработка,программирование,карьера,IT,собеседования,работа</itunes:keywords>
 		<item>
+			<guid isPermaLink="false">https://soundcloud.com/prowebit/prowebit-2</guid>
+			<title>ProWebIT - Episode 1 (2й выпуск)</title>
+			<pubDate>Tue, 03 Apr 2018 00:00:00 +0000</pubDate>
+			<link>https://majorov.su</link>
+			<itunes:duration>00:14:20</itunes:duration>
+			<itunes:author>Alexander Mayorov</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:subtitle>Второй по счету и первый по номеру выпуск</itunes:subtitle>
+			<itunes:summary>Аудизарисовки прошедших будней. Телеграм могут заблокировать, а я не готовлюсь к этому.
+
+Стоит ли изучать JS или можно сразу учиться работать с фреймворками? Как прокачивать свои скилы и надо ли делать петпроджекты? - задал вопрос один из слушателей.
+
+Астрологи объявили неделю имутабельности в JS и я выдал несколько больших статей по теме константных объектов в JS и TypeScript, разобрал реальный кейс - структуру данных кортеж и особенности ее реализации.
+
+Так же астрологи объявили неделю PHP митапов. Прошло сразу 2 митапа. Я на митапах не был, так как был очень сильно занят, но зато я успел побывать на нескольких собеседованиях по PHP в качестве наблюдателя и у меня есть интересные задачи по PHP, то что спрашивают сегодня на реальных собеседованиях
+
+Добавляйтесь в Телеграм канал (https://t.me/prowebit) или Вконтакте (https://vk.com/mayorovprowebit),
+подписывайтесь в Twitter (https://twitter.com/frontdevops) и Medium (https://medium.com/@frontman)
+			</itunes:summary>
+			<description><![CDATA[
+<p>
+Слушайте <a href="https://itunes.apple.com/ru/podcast/pro-web-it/id1366662242?mt=2">в iTunes</a>,
+подписывайтесь <a href="https://majorov.su/feed.xml">через RSS</a> и <a href="https://t.me/prowebit">Телеграм канал</a>
+или <a href="https://vk.com/mayorovprowebit">Вконтакте</a>.
+</p>
+<h2>Ссылки</h2>
+<ul>
+<li>
+	<a href="https://medium.com/@frontman/74950fac15c3">Кортежи в JavaScript и TypeScript</a>
+	<a href="https://medium.com/@frontman/bc6e45c2f714">Создаем имутабельные объекты на TypeScript</a>
+	<a href="https://medium.com/@frontman/b346353d9cce">Статья про CONST в JavaScript</a>
+</li>
+</ul>
+<p>Аудизарисовки прошедших будней. Телеграм могут заблокировать, а я не готовлюсь к этому.</p>
+<p>Стоит ли изучать JS или можно сразу учиться работать с фреймворками? Как прокачивать свои скилы и надо ли делать петпроджекты? - задал вопрос один из слушателей.</p>
+<p>Астрологи объявили неделю имутабельности в JS и я выдал несколько больших статей по теме константных объектов в JS и TypeScript, разобрал реальный кейс - структуру данных кортеж и особенности ее реализации.</p>
+<p>Так же астрологи объявили неделю PHP митапов. Прошло сразу 2 митапа. Я на митапах не был, так как был очень сильно занят, но зато я успел побывать на нескольких собеседованиях по PHP в качестве наблюдателя и у меня есть интересные задачи по PHP, то что спрашивают сегодня на реальных собеседованиях</p>
+]]></description>
+			<enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/426819966-prowebit-prowebit-2.mp3" length="6995435"/>
+			<itunes:image href="https://majorov.su/images/cover.png"/>
+		</item>
+		<item>
 			<guid isPermaLink="false">https://soundcloud.com/prowebit/prowebit-episode-1-2y-vypusk</guid>
 			<title>ProWebIT - Episode 1 (2й выпуск)</title>
 			<pubDate>Tue, 03 Apr 2018 00:00:00 +0000</pubDate>
@@ -72,7 +114,7 @@
 <h2>Ссылки</h2>
 <ul>
 <li>
-	<a href="https://medium.com/@frontman/const-%D0%B2-js-%D0%B4%D0%B5%D0%BB%D0%B0%D0%B5%D1%82-%D1%81%D0%B2%D0%BE%D1%8E-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%83-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE-b346353d9cce">Статья про CONST в JavaScript</a>
+	<a href="https://medium.com/@frontman/b346353d9cce">Статья про CONST в JavaScript</a>
 </li>
 </ul>
 <h2>Сериалы</h2>
