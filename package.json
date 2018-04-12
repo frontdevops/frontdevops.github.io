@@ -1,0 +1,27 @@
+{
+  "name": "frontdevops.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"All test passed successfully\" && exit 0",
+    "build:css": "./node_modules/.bin/uglifycss --cute-comments main.css > main.min.css",
+    "build:html": "./node_modules/.bin/htmlminify index.htm > index.html",
+    "build": "npm run build:css;npm run build:html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frontdevops/frontdevops.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frontdevops/frontdevops.github.io/issues"
+  },
+  "homepage": "https://github.com/frontdevops/frontdevops.github.io#readme",
+  "devDependencies": {
+    "html-minify": "^0.3.2",
+    "uglifycss": "0.0.29"
+  }
+}
